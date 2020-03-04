@@ -1,4 +1,4 @@
-package HelloWorld
+package lance_module
 
 import (
 	"fmt"
